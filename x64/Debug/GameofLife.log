@@ -1,0 +1,4 @@
+﻿  grid.cpp
+C:\Users\aaron\source\CPP\GameofLife\GameofLife\GameofLife\grid.cpp(25,8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\aaron\source\CPP\GameofLife\GameofLife\GameofLife\grid.cpp(39): warning C4715: 'grid::will_create': not all control paths return a value
+  GameofLife.vcxproj -> C:\Users\aaron\source\CPP\GameofLife\GameofLife\x64\Debug\GameofLife.exe
